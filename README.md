@@ -1,0 +1,2 @@
+# ZonaAI
+Belajar AI coy..
