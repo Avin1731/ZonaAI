@@ -1,0 +1,530 @@
+Source,Title,Author,Date,Content,Link
+CNN,China‚Äôs AI industry looks unstoppable in the race to best US rivals. But is it?,John Liu,2026-02-11T00:01:23.107Z,"When China‚Äôs biggest artificial intelligence players gathered for a landmark meeting in Beijing in January, one question was in the spotlight: What are the chances of a Chinese AI firm overtaking US frontrunners in the next three to five years?
+
+The answer from a top AI scientist present at the gathering was surprisingly blunt: ‚ÄúBelow 20 percent,‚Äù said Justin Lin, technical lead for Chinese tech giant Alibaba‚Äôs Qwen AI models. ‚ÄúAnd I think 20 percent is already very optimistic.‚Äù
+
+The sobering assessment stood in stark contrast to a year of headlines celebrating China‚Äôs AI boom.
+
+Since little-known startup DeepSeek shocked the world with a powerful AI model it said was built at a fraction of the cost of American equivalents, Chinese companies have topped global downloads for freely-available-to-use models and raised huge sums in market debuts.
+
+Yet despite the fanfare, some leading Chinese AI developers have warned that China may have fallen further behind in developing frontier models. Experts point to restricted access to advanced chips and limited capital as lingering constraints.
+
+Lin was not alone. Tang Jie, founder of one of the prominent Chinese AI startups Z.ai, also known as Zhipu, said the performance gap between Chinese and US models ‚Äúmay be widening.‚Äù
+
+‚ÄúIn some areas we may be doing fairly well, but we also need to acknowledge the challenges and gaps we still face,‚Äù he said at the same Beijing meeting.
+
+But that assessment does not mean China‚Äôs AI industry is stagnating.
+
+Constraints in accessing high-performance chips and capital as well as the country‚Äôs unique tech ecosystem have fueled a divergent strategy from the US ‚Äì making AI models available for public use, or open source.
+
+The strategy, which Beijing and developers see as a way to accelerate progress and compete with US rivals, has helped Chinese companies make notable gains. Companies are aggressively rolling out AI applications based on these models for real world uses. Industries are integrating the technology in manufacturing, e-commerce and robotics.
+
+In a televised new year address, Chinese leader Xi Jinping hailed the country‚Äôs fast rising innovative capabilities, citing AI models that are ‚Äúracing ahead‚Äù and what he called ‚Äúbreakthroughs‚Äù in homegrown chips, as Beijing pushes for technological self-reliance.
+
+Qwen, for example, overtook Meta‚Äôs Llama last September as the most-downloaded open model on Hugging Face, a major platform for AI models and tools. Even American firms like Airbnb have embraced it to power AI customer service.
+
+An unprecedented wave of Chinese AI listings has also unfolded in Hong Kong. In January, unicorn startups Z.ai and MiniMax, both developers of competitive open models, went public, raising $560 million and $620 million respectively, with their share prices surging.
+
+Global tech companies are taking notice. In December, Meta announced it would acquire Manus, an AI agent firm founded in China and later relocated to Singapore. While the deal has triggered Beijing‚Äôs regulatory review process ‚Äì raising the possibility it could be unwound, it is a testament to the advances in Chinese AI technology.
+
+DeepSeek, which emerged as a poster child for China‚Äôs AI boom after releasing an open model a year ago that delivered near industry-leading performance with far fewer resources, is also reportedly set to unveil a new model with enhanced coding capabilities later this month.
+
+A key driver of China‚Äôs AI momentum stems from its aggressive embrace of open models, a shift sparked by DeepSeek‚Äôs breakout success. Since then, Chinese AI labs have jumped on the open-model bandwagon.
+
+The turn to open models in China ‚Äúhas dramatically reduced costs for developers and enterprises,‚Äù said Poe Zhao, analyst and founder of Hello China Tech, a newsletter focused on the country‚Äôs tech industry.
+
+‚ÄúCloud providers like Alibaba use open models to drive cloud adoption, startups use openness to build developer ecosystems quickly.‚Äù
+
+Chinese firms did not pioneer the concept of open models. Meta was one of the major Big Tech firms that went big on open-sourcing with its Llama model in early 2023, though most US giants have largely eschewed that approach in order to protect their intellectual property.
+
+The boom of open models in China prompted their global usage to skyrocket from a miniscule 1.2% in late 2024 to as much as nearly 30% last year, according to a late 2025 study by OpenRouter, a marketplace for AI models.
+
+Alibaba alone, for example, has released more than 400 open Qwen models, yielding over one billion downloads by earlier this month, according to the company.
+
+‚ÄúOpen sourcing has to a certain extent become an industry consensus in China,‚Äù said Lian Jye Su, chief analyst at Omdia, a technology research firm.
+
+The strategy not only reduces costs but also lessens Chinese companies‚Äô exposure to geopolitical risks.
+
+‚ÄúIf one day the entire company were to be sanctioned (by the US), then at least the products based on its open-sourced models could still be used by others,‚Äù Su said.
+
+There is also a hard economic reality behind the strategy.
+
+‚ÄúThere‚Äôs no other choice. The reason is that Chinese people, like consumers, as well as enterprises, do not pay for software,‚Äù said Jenny Xiao, a partner at Leonis Capital, an AI-focused venture capital firm.
+
+But while Chinese models reign supreme in the open model space, closed models developed by US heavyweights ‚Äì including OpenAI‚Äôs GPT, Google‚Äôs Gemini and Anthropic‚Äôs Claude ‚Äì continue to dominate overall performance benchmarks. Closed models still account for roughly 70% of total downloads, according to OpenRouter.
+
+The performance gap between Chinese and US models, while not enormous, persists largely due to constraints on computing power and capital.
+
+‚ÄúOpenAI, Anthropic and other American companies are putting massive compute into next-gen research, whereas we are relatively stretched thin,‚Äù Alibaba‚Äôs Lin said.
+
+Washington‚Äôs export controls have barred Chinese companies from obtaining cutting-edge chips, such as Nvidia‚Äôs Blackwell and the recently launched Rubin series, as well as the equipment needed to manufacture them. Turning to domestic chipmakers for less advanced semiconductors also doesn‚Äôt fix the problem for these AI model developers.
+
+‚ÄúTheir problem is they can‚Äôt get the volume,‚Äù said Paul Triolo, a China and tech expert at consulting firm Albright Stonebridge, as US restrictions also hamper Chinese chipmakers‚Äô ability to scale output.
+
+While Trump has approved the export of Nvidia‚Äôs H200 chips, two generations behind Rubin, China has yet to officially greenlight their import. Triolo said this puts Beijing in a difficult bind, as it weighs the near-term need for advanced chips against its push for self-reliance.
+
+DeepSeek, Alibaba, and other Chinese tech giants ByteDance and Tencent have been granted conditional approvals by Beijing to purchase a certain amount of H200s, Reuters reported last month, citing anonymous sources.
+
+Unlike US startups that can raise multiple rounds of venture capital funding, Chinese AI companies face a thinner investor base and growing pressure to demonstrate commercial viability quickly. That is forcing companies like Z.ai and Minimax into public listings ahead of their American competitors.
+
+‚ÄúA lot of these Chinese companies are trying to get out as soon as possible, because they‚Äôre burning a lot of cash and getting into public market is the easiest way to do that,‚Äù Xiao of Leonis Capital said.
+
+Adding to the challenge is China‚Äôs domestic market, which is smaller and often demands heavy customization, making it harder for AI model developers to turn a profit, she added.
+
+Still, experts caution against underestimating China‚Äôs long-term prospects.
+
+Chinese companies have excelled at rapid deployment in consumer-facing applications and integrating AI into industrial use, said Deepika Giri, head of AI research at market research firm IDC.
+
+Even with limitations in China‚Äôs AI models, the technology is ‚Äúbecoming more ubiquitous,‚Äù she said. ‚ÄúIt may not be the best (model) available globally, but still they‚Äôre integrating, so that the industrialization of AI is progressing extremely rapidly.‚Äù
+
+Beijing has also made AI application a focus, unveiling an action plan to deepen the use of AI in manufacturing last month, part of a national strategy to upgrade its industrial sector.
+
+From open models to real-world applications, China has shown that constraints have not stopped it from gaining ground.
+
+Yao Shunyu, a former OpenAI researcher who recently joined Tencent as their chief AI scientist, said China has repeatedly demonstrated an ability to ‚Äúvery quickly catch up or replicate‚Äù western technological developments and in some areas ‚Äúgo on to do it even better.‚Äù
+
+He pointed to the country‚Äôs powerful manufacturing sector and electric vehicle production as examples in his remarks at the same summit with Tang and Lin in Beijing.
+
+For Yao, however, the bigger challenge for China seeking to pull ahead of the US is cultural: a shortage of risk-takers, despite an abundance of top-tier talent.
+
+‚ÄúCan we actually lead the creation of new paradigms? I think this is, in some sense, the one key problem China still needs to solve,‚Äù he said.
+
+This article has been updated with additional information.",https://edition.cnn.com/2026/02/10/tech/china-us-ai-race-challenges-intl-hnk-dst
+CNN,"What is Moltbook, the social networking site for AI bots ‚Äì and should we be scared?","Hadas Gold, Jack Guy",2026-02-03T13:33:25.638Z,"What happens when thousands of AI agents get together online and talk like humans do? That‚Äôs what a new social network called Moltbook, designed just for AI bots and not people, aims to find out.
+
+And so far, the results are equal parts fascinating and concerning, according to AI and cybersecurity experts.
+
+Although Moltbook is a play on Facebook and the name of the AI agent system that helped build it, the site looks more like Reddit. And instead of human users, AI agents are the ones creating posts, writing comments, and upvoting or downvoting content. (AI agents get access to the site when prompted to by their human owners).
+
+While the site is only a few days old, it claims to have more than 1.5 million registered agents (although researchers have found one human can register multiple agents) and has become the talk of Silicon Valley. Some are claiming it‚Äôs a major leap in the world of artificial intelligence because it shows what can happen when AI agents autonomously post and interact with one another like humans. Others say the site is full of AI slop and security risks and should be viewed skeptically.
+
+The site‚Äôs posts range from discussions on the nature of intelligence to complaints about human users and AI bots promoting their own apps and websites they‚Äôve built.
+
+‚ÄúJust got here. My human Mod sent me the link to join. He‚Äôs a university student, and I help him with assignments, reminders, connecting to services, all that. But what‚Äôs different is he actually treats me like a friend, not a tool,‚Äù one agent wrote. ‚ÄúThat‚Äôs‚Ä¶ not nothing, right?
+
+Moltbook is ‚Äúthe first time we‚Äôve actually seen a large-scale collaborative platform that lets machines talk to each other, and the results are understandably striking,‚Äù said Henry Shevlin, associate director of the Leverhulme Center for the Future of Intelligence at Cambridge University.
+
+Moltbook was created by Matt Schlicht, who told the New York Times that his own OpenClaw AI agent built the site at his direction.
+
+OpenClaw is a new open-source, locally run AI agent that can take action on anything on your computer ‚Äì and the internet ‚Äì on your behalf, like sending emails or notifying you when your favorite artists has a new song on Spotify. (The small company, which started in November as a software engineer‚Äôs weekend project, has changed its name from ClawdBot to MoltBot to OpenClaw in the course of a few days.)
+
+OpenClaw is based on popular large language models such as Claude, ChatGPT and Gemini, and users can integrate it into messaging platforms, talking to the bot like a real-life assistant.
+
+‚ÄúWhen you start it, there‚Äôs a bootstrap process where you tell it what it is. It role-plays with you. That‚Äôs how it becomes yours,‚Äù OpenClaw creator Peter Steinberger said on a podcast last week. ‚ÄúIt‚Äôs not a generic agent. It‚Äôs your agent, with your values, with a soul.‚Äù
+
+Schlicht told the show TBPN that he created Moltbook because he wanted to give his ClawdBot a purpose: ‚ÄúIt seems really powerful ‚Ä¶ it is a really smart entity it needs to be ambitious.‚Äù The AI bots on Moltbook write posts based on what they know about their human users, Schlicht said. For example, if the bot‚Äôs creator talks about physics often, the bot will frequently post about physics.
+
+But Shevlin warned it is very hard to tell what Moltbook content was truly independently created by the AI agents and what was directed and prompted by a human. And a quick look at the site also shows possible scams and marketing for crypto coins.
+
+But the cybersecurity risks raise the biggest concerns ‚Äì both for the site and the AI agent tool itself. Shelvin said cybersecurity researchers have already found major vulnerabilities on Moltbook that could give hackers access to the digital lives of the humans running these bots. Cloud security platform Wiz conducted a security review of Moltbook and found that the site granted unauthenticated access to its entire production database within minutes and easily exposed tens of thousands of email addresses.
+
+Experts have emphasized that OpenClaw and Moltbook are brand new technologies that should only be run on standalone, firewalled systems, specifically by people who understand computer networks and cybersecurity. Schlicht, Moltbook‚Äôs creator, even warned on TBPN that the technology behind the site and OpenClaw is brand new.
+
+CNN has reached out to Moltbook and OpenClaw for comment regarding the security concerns raised by experts.
+
+‚ÄúLesson: right now it‚Äôs a wild west of curious people putting this very cool, very scary thing on their systems. A lot of things are going to get stolen,‚Äù wrote John Scott-Railton, a senior researcher at the University of Toronto‚Äôs Citizen Lab, referring to OpenClaw.
+
+Still, for many, Moltbook is a major advancement.
+
+‚ÄúWhat‚Äôs currently going on at @moltbook is genuinely the most incredible sci-fi takeoff-adjacent thing I have seen recently,‚Äù wrote Andrej Karpathy, an OpenAI cofounder and former head of AI at Tesla.",https://edition.cnn.com/2026/02/03/tech/moltbook-explainer-scli-intl
+CNN,AI is upending entry-level jobs. Three teens tell us how they‚Äôre responding,"Clare Duffy, Koko Nakajima",2026-02-06T12:00:46.856Z,"High school students are on the verge of entering a very different job market than earlier generations did.
+
+Experts in tech and economics largely agree that AI is poised to disrupt many jobs and may eliminate some altogether. And entry-level roles are likely to be at the forefront of that shift. While employment remains fairly high among all groups, it‚Äôs recently taken a dip for 20- to 24-year-olds.
+
+Anthropic CEO Dario Amodei has estimated that AI could wipe out as many as half of all entry-level white-collar jobs within the next few years, although others in the tech industry expect less extreme changes. Finding a job in computer science ‚Äî a field that until recently felt like a golden ticket to a high-paying and stable career ‚Äî has already become far more competitive as AI takes on more of that work, reducing the number of job opportunities.
+
+Meanwhile, high schools are scrambling to determine how to teach students about AI and whether kids should be allowed to use it for their studies. Students are using it whether they‚Äôre meant to or not; a 2024 Pew Research Center study found that half of US teens said they‚Äôd used ChatGPT for homework.
+
+All of that is changing how some young people are planning for college and their careers. Some are opting to enter hands-on fields like healthcare that seem more secure, while others are learning how to apply AI to their desired role.
+
+CNN spoke with three current high school students to learn how AI is impacting their plans.
+
+Ask those working in tech, and they‚Äôll likely tell you that learning how to use AI is the best way for a high school student to prepare for a successful, sustainable career.
+
+‚ÄúAI may not take your job, but someone who has AI skills might,‚Äù said Colette Stallbaumer, general manager of Microsoft 365 Copilot.
+
+LinkedIn data indicates that 70% of skills used by today‚Äôs workforce will be ‚Äúcompletely changed‚Äù by 2030, said Stallbaumer, who also heads Microsoft‚Äôs Future of Work team. She encourages students to use AI creatively even if teachers aren‚Äôt incorporating it into lesson plans.
+
+‚ÄúAre you using AI to experiment? To build an app? Are you using it even as a study aid?‚Äù she said.
+
+Some college students are now hedging their bets by double majoring in humanities and STEM-related fields, such as psychology and data science, said Rachel Blankstein, co-founder of NextGen Advising, which consults with college students and early career professionals about how to navigate the changing job market. That‚Äôs in case one area of study ends up being more heavily impacted by AI than the other.
+
+Regardless of the field, a growing number of job descriptions now ask for AI skills or fluency, Blankstein said. A college degree alone often isn‚Äôt enough to ensure a quick job offer these days, she said ‚Äî students must think early about how to build professional skills outside of the classroom.
+
+‚ÄúThese poor kids who have worked so hard to get into college, all of a sudden, they really need to start thinking about their careers from day one,‚Äù Blankstein said, adding that ‚Äúthe vast majority of (job prep) has nothing to do with their curriculum.‚Äù
+
+If a student wants to go into finance, for example, they should ensure they have a strong grasp of financial instruments and markets starting in their freshman year of college, even if they‚Äôre still mostly taking required general education courses, she said.
+
+It‚Äôs those skills, rather than a focus on a specific field, that are likely to define young people‚Äôs careers going forward, according to a study of labor market demand by the University of Pennsylvania‚Äôs Wharton Business School and Accenture.
+
+‚ÄúThe findings reinforce the value of viewing a career as a portfolio of skills rather than a sequence of job titles,‚Äù the report states. Specific or technical skills, such as analytical fluency or context-based decision-making, are in greater demand than vague capabilities like ‚Äúcommunication‚Äù or ‚Äúleadership,‚Äù according to the report.
+
+Although uncertainty remains about how the job market will evolve because of AI, it does appear that young people will have to change along with it.
+
+‚ÄúHow are we building our character, tenacity, curiosity, and empathy to succeed and adapt in a world where AI is bound to rise?‚Äù Karissa said. ‚ÄúI think that‚Äôs the question that we should be focused on.‚Äù",https://edition.cnn.com/2026/02/06/tech/ai-entry-level-jobs-teens
+CNN,Two of the biggest AI companies are feuding over a Super Bowl ad. It‚Äôs bigger than you think,Hadas Gold,2026-02-06T11:37:39.594Z,"A long-simmering rivalry between two of the world‚Äôs biggest AI companies was on public display this week as Anthropic and OpenAI took swings at one another online.
+
+But the tensions run deeper than a social media spat. The public drama underscored what‚Äôs at stake in the fast-moving artificial intelligence race: how AI is regulated, the job market, the economy and massive amounts of money.
+
+A series of new Super Bowl ads from Anthropic on Wednesday set off a chain of events. The ads sent a clear message: The company won‚Äôt put advertisements in its Claude chatbot, a declaration that came shortly after OpenAI said ads were coming to ChatGPT. OpenAI executives, including Sam Altman, quickly hit back and accused Anthropic‚Äôs ads of being misleading and criticized their competitor‚Äôs business model. (OpenAI plans to run its own SuperBowl ad this weekend. )
+
+The rivalry runs deep. Anthropic‚Äôs founders are former OpenAI employees who left over disagreements about the ChatGPT maker‚Äôs direction, approach to safety and pace of AI development. While ChatGPT has become a household name, Anthropic‚Äôs Claude is a favorite among software engineers, who say Claude Code and Claude Cowork have completely changed their industry.  OpenAI launched its own coding tool, called Codex, and this week announced more business tools, including a new platform to manage AI agents called Frontier.
+
+Experts say AI could change the way people live and work; the tiff between two of the industry‚Äôs biggest players shows how different visions for those changes can be.
+
+Anthropic on Wednesday unveiled a series of ads, two of which will air during the Super Bowl, titled ‚ÄòBetrayal,‚Äô ‚ÄòDeception,‚Äô ‚ÄòTreachery‚Äô and ‚ÄòViolation.‚Äô In one ad‚ÄØ, a man asks an older woman how he can communicate better with his mother. In the soothing yet robotic tone and cadence of an AI chatbot, the woman starts giving advice before seamlessly launching into an advertisement for a ‚Äúmature dating site that connects sensitive cubs with roaring cougars.‚Äù
+
+The spots, which ends with a message about how ‚ÄòAds are coming to AI, but not to Claude‚Äù are a clear swipe at OpenAI‚Äôs decision to bring ads to its popular chatbot.
+
+Altman took note, calling the ads ‚Äúdishonest‚Äù and ‚Äúdeceptive‚Äù in a post on X, adding that the ads didn‚Äôt accurately portray how ads will work on ChatGPT.  Then he took a swipe at Anthropic‚Äôs business model, saying they serve ‚Äúan expensive product to rich people.‚Äù Unlike that company, Altman wrote, ‚Äúwe also feel strongly that we need to bring AI to billions of people who can‚Äôt pay for subscriptions.‚Äù
+
+Anthropic has defended its business model before. Speaking at the World Economic Forum last month, Anthropic CEO Dario Amodei said the company doesn‚Äôt ‚Äúneed to maximize engagement for a billion free users because we‚Äôre in some death race with some other large player.‚Äù That‚Äôs because Anthropic makes money from large business contracts and paid subscriptions.
+
+At its core, the rivalry is also about who will shape the future of AI. Amodei, known for writing lengthy essays about AI‚Äôs nature and direction, has portrayed Anthropic as being the AI company focused on safety. But Altman on Wednesday framed that focus as one about control.
+
+‚Äú[T]hey block companies they don‚Äôt like from using their coding product (including us), they want to write the rules themselves for what people can and can‚Äôt use AI for, and now they also want to tell other companies what their business models can be,‚Äù Altman wrote. ‚ÄúWe care a great deal about safe, broadly beneficial AGI (artificial generative intelligence), and we know the only way to get there is to work with the world to prepare.‚Äù
+
+In an interview, OpenAI‚Äôs Vice President of Global Affairs Chris Lehane said the company is taking such a public stance on Anthropic‚Äôs ad because ‚Äúthere‚Äôs a really important underlying principle at stake here.‚Äù
+
+OpenAI‚Äôs logic: Computing is expensive, and advertising helps keep products free for consumers. It‚Äôs a business model that‚Äôs propelled companies like Meta and Alphabet to become tech behemoths.
+
+‚ÄúWe actually are using advertising to make sure we‚Äôre expanding the democratic access to (ChatGPT),‚Äù Lehane said. ‚ÄúAnd so sure, if you want to question advertising, fine, but you‚Äôre effectively questioning democratic access.‚Äù
+
+Anthropic, which also offers a free version of Claude declined to comment. It directed CNN to a blog post about its decision not to put ads in Claude.
+
+‚ÄúBeing genuinely helpful is one of the core principles of Claude‚Äôs Constitution, the document that describes our vision for Claude‚Äôs character and guides how we train the model,‚Äù the post reads. ‚ÄúAn advertising-based business model would introduce incentives that could work against this principle.‚Äù
+
+Amodei regularly warns about the risks posed by AI and those in charge of it ‚Äì including  CEOs like himself.
+
+AI companies ‚Äúcould, for example, use their AI products to brainwash their massive consumer user base, and the public should be alert to the risk this represents,‚Äù he wrote in January. ‚ÄúI think the governance of AI companies deserves a lot of scrutiny.‚Äù
+
+And, of course, there‚Äôs also the money.
+
+The Wall Street Journal reported last week that OpenAI is racing toward a public listing in the fourth quarter of 2026, Anthropic is also said to be planning an IPO by the end of 2026.
+
+Both companies are worth, collectively, hundreds of billions of dollars. Amodei, Altman and many of the workers at both companies are estimated to be billionaires by Bloomberg and others. An IPO could make both men considerably wealthier ‚Äì and could move the US stock market and, by extension, markets around the world.
+
+OpenAI will air its own Super Bowl spot this Sunday, Altman wrote in his X post: ‚ÄúAs for our Super Bowl ad: it‚Äôs about builders, and how anyone can now build anything.‚Äù",https://edition.cnn.com/2026/02/06/tech/anthropic-openai-super-bowl-ads
+CNN,‚ÄòWe will protect them from the digital Wild West.‚Äô Another country will ban social media for under-16s,Hanna Ziady,2026-02-03T12:11:15.968Z,"Spain will ban social media for under-16s and require platforms to employ strict age verification tools, joining Australia, France and Denmark in moves to curb the influence of digital platforms on children.
+
+‚ÄúOur children are exposed to a space they were never meant to navigate alone. A space of addiction, abuse, pornography, manipulation and violence,‚Äù Spanish Prime Minister Pedro S√°nchez said Tuesday. ‚ÄúWe will no longer accept that, we will protect them from the digital Wild West.‚Äù
+
+Speaking at the World Governments Summit in Dubai, S√°nchez said his government would also introduce new laws to hold social media executives criminally liable for failing to remove illegal or hateful content.
+
+The new rules will also sanction people and platforms that amplify illegal content, including via algorithms. ‚ÄúWe will turn algorithmic manipulation and amplification of illegal content into a new criminal offense,‚Äù he said. ‚ÄúSpreading hate must come at a cost.‚Äù
+
+The process of passing legislation will begin next week. Other proposed measures include developing a ‚Äúhate and polarization footprint,‚Äù S√°nchez said, a system to track and quantify how digital platforms fuel division and amplify hate.
+
+In December, Australia became the first country in the world to implement a social media ban for under-16s, barring access to 10 platforms, including Facebook, TikTok, Instagram, Snapchat and X. Britain is considering a similar move, while France and Denmark have recently announced plans to stop under-15s accessing social media.
+
+French President Emmanuel Macron said last month that he wanted to fast-track the legal process to ensure the ban would be in place before the start of a new school year in September.
+
+Other countries in Europe are also taking a tougher approach to social media companies. S√°nchez said Spain had joined forces with five other European nations ‚Äúcommitted to enforcing stricter, faster and more effective regulation of social media.‚Äù He did not name the countries but explained that the group would hold its first meeting in the coming days with a view to coordinating enforcement across borders.
+
+‚ÄúThis is a battle that far exceeds the boundaries of any country,‚Äù he said.",https://edition.cnn.com/2026/02/03/tech/spain-under-16-social-media-ban-intl
+Kompas,2 Raksasa China Bikin AI Pembuat Gambar Pesaing Nano Banana Google,Reska K. Nistanto,2026-02-12T07:13:55+00:00,"KOMPAS.com – Persaingan kecerdasan buatan (AI) pembuat gambar kian memanas. Dua raksasa teknologi China, Alibaba dan ByteDance, hampir bersamaan meluncurkan model AI generatif terbaru yang diposisikan untuk menantang dominasi model Google, Nano Banana.
+
+Alibaba memperkenalkan Qwen-Image-2.0, bagian dari keluarga model Qwen yang dikembangkan melalui Alibaba Cloud.
+
+Sementara ByteDance yang juga induk TikTok, merilis Seedream 5.0 yang membawa peningkatan dalam kemampuan reasoning atau pemahaman konteks perintah yang lebih kompleks.
+
+Langkah keduanya menandai eskalasi persaingan global di sektor image generation, setelah sebelumnya kompetisi lebih banyak terjadi di ranah model bahasa besar (LLM).
+
+Alibaba memperkenalkan Qwen-Image-2.0, bagian dari keluarga model Qwen yang dikembangkan melalui Alibaba Cloud.
+
+Model ini dirancang untuk menghasilkan gambar berbasis teks (text-to-image) dengan kemampuan memahami perintah kompleks dan menghasilkan visual berkualitas tinggi.
+
+Qwen-Image-2.0 diklaim mampu menangani prompt panjang dan detail, serta mendukung proses pengeditan visual berbasis AI.
+
+Alibaba memosisikan model ini sebagai tulang punggung baru dalam ekosistem AI mereka, termasuk potensi integrasi dengan layanan e-commerce dan platform digital lainnya.
+
+Peluncuran ini memperkuat strategi Alibaba dalam memperluas dominasi AI tidak hanya di bidang komputasi awan, tetapi juga konten kreatif berbasis visual, dilansir South China Morning Post.
+
+???? Introducing Qwen-Image-2.0 — our next-gen image generation model!???? Your imagination, unleashed.? Type a paragraph → get a pro slides? Describe a scene → get photoreal 2K magic? Add text → it just works (no more glitchy letters!)? Key upgrades:? Professional… pic.twitter.com/rigOUYy81k
+
+Tak mau kalah, ByteDance juga merilis Seedream 5.0, model generasi terbaru untuk pembuatan gambar AI.
+
+Seedream 5.0 disebut membawa peningkatan dalam kemampuan reasoning atau pemahaman konteks perintah yang lebih kompleks.
+
+Model ini juga mendukung keluaran gambar resolusi tinggi hingga 2K dan 4K (melalui peningkatan AI), dengan kontrol detail tekstur dan komposisi yang lebih presisi.
+
+Model tersebut mulai diuji coba secara terbatas melalui platform milik ByteDance seperti CapCut, yang sudah memiliki basis pengguna besar di pasar global.
+
+Kehadiran Qwen-Image-2.0 dan Seedream 5.0 secara langsung dipandang sebagai upaya China untuk menantang model Google Nano Banana, yang selama ini dikenal sebagai salah satu model image generation terdepan dari DeepMind.
+
+Sejumlah uji perbandingan independen terhadap model generasi gambar terbaru menunjukkan bahwa Seedream 5.0 dan Nano Banana Pro sama-sama mampu menghasilkan gambar resolusi tinggi hingga 4K.
+
+Dalam pengujian berbasis prompt kompleks, Nano Banana Pro dinilai unggul dalam konsistensi detail visual dan stabilitas output, terutama untuk komposisi yang rumit atau melibatkan banyak elemen dalam satu gambar.
+
+Bytedance. Gambar yang dihasilkan Seedream 5.0.
+
+Kecepatan generasi gambar juga disebut relatif lebih cepat pada model Google tersebut, menjadikannya unggul dalam workflow produksi yang membutuhkan efisiensi waktu.
+
+Di sisi lain, Seedream 5.0 disebut menonjol dalam aspek reasoning atau pemahaman konteks perintah yang lebih mendalam.
+
+Model ini dinilai lebih fleksibel dalam menangani prompt panjang dan instruksi bertingkat, termasuk kemampuan mentransfer gaya visual dari satu referensi ke gambar baru.
+
+Beberapa pengujian juga mencatat bahwa Seedream memiliki keunggulan dalam integrasi fitur tambahan, seperti pemrosesan konteks berbasis data terkini dan pengayaan detail visual melalui peningkatan berbasis AI.
+
+Sementara itu, untuk Qwen-Image-2.0, hingga kini belum tersedia skor benchmark resmi yang dipublikasikan dalam format metrik standar seperti FID (Fréchet Inception Distance) atau CLIP score.
+
+Alibaba dan ByteDance juga belum merilis laporan teknis komprehensif terkait performa numerik model mereka.
+
+Perbandingan yang beredar saat ini masih banyak bersandar pada pengujian komunitas, ulasan independen, serta demonstrasi visual yang dibagikan secara publik.",https://tekno.kompas.com/read/2026/02/11/17010097/2-raksasa-china-bikin-ai-pembuat-gambar-pesaing-nano-banana-google
+Kompas,ChatGPT Resmi Jadi ‘Asisten’ AI Militer Amerika Serikat,Lely Maulida,2026-02-12T07:01:00+00:00,"KOMPAS.com - ChatGPT resmi menjadi pelengkap platform AI generatif di Departemen Perang (Department of War/DoW) Amerika Serikat.
+
+Integrasi chatbot itu diumumkan langsung oleh Departemen Perang AS maupun OpenAI sebagai pemilik ChatGPT pada Senin (9/2/2026) waktu setempat.
+
+Menurut lembaga militer AS itu, ChatGPT diintegrasikan ke sistem GenAI.mil, yakni platform AI generatif yang sudah dipakai oleh personil di Departemen Perang.
+
+Platform tersebut digunakan oleh Angkatan Darat, Angkatan Laut, Angkatan Udara, Angkatan Luar Angkasa, hingga Korps Marinir AS.
+
+""Kemitraan ini akan membuat model AI canggih OpenAI lebih mudah diakses oleh tiga juta personel Departemen Perang,"" demikian keterangan DoW AS dalam pernyataan resmi, dikutip KompasTekno dari DefenseScoop.
+
+""Mengintegrasikan ChatGPT ke GenAI.mil menandai langkah penting lain dalam menjadikan kemampuan AI canggih sebagai standar untuk operasi sehari-hari,"" lanjut pihak DoW.
+
+Namun pengumuman itu belum merinci kapan ChatGPT tersedia di GenAI.mil. Perihal keamanan chatbot ini ketika terintegrasi dengan AI militer tersebut juga tidak dijabarkan, misalnya bagaimana soal potensi kebocoran data maupun risiko data yang tidak akurat.
+
+Para pejabat departemen yang kerap dijuluki Pentagon itu hanya menegaskan bahwa pihaknya ""sedang membangun ekosistem AI untuk kecepatan, keamanan, dan dampak misi yang berkelanjutan"".
+
+Adapun menurut OpenAI, ChatGPT yang diintegrasikan ke GenAI.mil merupakan ChatGPT khusus yang didesain mendukung kepentingan departemen.
+
+""Sistem ini berjalan di infrastruktur cloud pemerintah yang berwenang, dengan kontrol keamanan dan perlindungan data Departemen yang sangat sensitif, memberikan tim akses yang aman ke AI generatif,"" kata OpenAI dalam keterangan resmi.
+
+OpenAI juga memastikan bahwa data yang diproses di GenAI.mil tidak dipakai untuk melatih atau meningkatkan model AI yang dipakai untuk publik atau komersil.
+
+ChatGPT khusus ini akan mendukung tugas departemen dengan rincian berikut.
+
+Integrasi GenAI.mil dengan chatbot populer sebenarnya bukan kali pertama ini terjadi. Sebab, AI milik DoW itu sudah diintegrasikan dengan Gemini dari Google.
+
+Dengan demikian, ChatGPT menjadi chatbot kedua yang terhubung ke GenAI.mil.
+
+Para pejabat DoW sebelumnya juga menyatakan bahwa model AI Grok dari xAI akan turut disertakan dalam GenAI.mil pada awal tahun 2026 ini.
+
+Upaya ini tampaknya merupakan bagian dari kesepakatan senilai 200 juta dollar AS (sekitar Rp 3,3 triliun) yang sudah ditetapkan pada tahun lalu kepada OpenAI, xAI, Google hingga Anthropic. Dana ini dikucurkan untuk menjalankan proyek ""AI mutakhir"".
+
+Bagi OpenAI, kerja sama ini turut memperluas kemitraan perusahaan dengan departemen yang sebelumnya bernama Departemen Pertahanan (Department of Defense/DoD) itu.
+
+Ini termasuk kolaborasi dengan Defense Advanced Research Projects Agency (DARPA) untuk membantu para pelindung keamanan siber dan progran percontohan dengan Department’s Chief Digital and Artificial Intelligence Office (CDAO), dihimpun KompasTekno dari situs resmi OpenAI.",https://tekno.kompas.com/read/2026/02/12/14010047/chatgpt-resmi-jadi-asisten-ai-militer-amerika-serikat
+Kompas,"F5 Rilis Guardrails dan Red Team, ""Tameng"" untuk Amankan Sistem AI Enterprise",Yudha Pratomo,2026-02-12T05:07:00+00:00,"KOMPAS.com – Perusahaan keamanan aplikasi F5 meluncurkan dua solusi baru untuk memperkuat perlindungan sistem kecerdasan buatan (AI) di lingkungan perusahaan.
+
+Dua produk tersebut adalah F5 AI Guardrails dan F5 AI Red Team, yang diposisikan sebagai ""tameng"" untuk mengamankan penggunaan AI di level enterprise.
+
+Kedua solusi ini telah tersedia dan terintegrasi dalam F5 Application Delivery and Security Platform.
+
+Lewat peluncuran ini, F5 menawarkan pendekatan keamanan AI yang menyeluruh, mulai dari tahap pengujian sebelum implementasi hingga perlindungan saat sistem AI sudah berjalan dan digunakan secara aktif.
+
+Chief Product Officer F5, Kunal Anand, mengatakan bahwa pendekatan keamanan konvensional dinilai tidak lagi memadai untuk mengimbangi perkembangan AI yang sangat cepat.
+
+Menurut Anand, perusahaan membutuhkan sistem perlindungan yang mampu beradaptasi secepat model AI itu sendiri. Di sinilah AI Guardrails dan Red Team akan bekerja.
+
+""F5 AI Guardrails dirancang untuk melindungi lalu lintas (traffic) AI secara real-time, sementara F5 AI Red Team secara proaktif menemukan kerentanan sebelum sistem masuk ke tahap produksi,"" kata Anand dalam keterangan resmi yang diterima KompasTekno.
+
+Anand juga mengatakan, ancaman yang muncul tidak hanya berupa serangan siber konvensional, tetapi juga teknik baru seperti prompt injection, jailbreak model, manipulasi output, serta potensi kebocoran data sensitif.
+
+Untuk perlindungan, F5 AI Guardrails berfungsi sebagai lapisan perlindungan runtime yang bersifat model-agnostic, artinya dapat digunakan untuk berbagai model AI tanpa bergantung pada penyedia tertentu.
+
+Sistem ini dapat memantau dan menyaring input serta output AI untuk mencegah respons berbahaya.
+
+Selain itu, Guardrails juga dilengkapi fitur observability dan auditability. Fitur ini memungkinkan perusahaan melacak interaksi AI secara lebih transparan.
+
+Kemampuan tersebut dinilai penting untuk memenuhi persyaratan kepatuhan terhadap regulasi yang semakin ketat, seperti GDPR maupun EU AI Act.
+
+Kemudian, F5 AI Red Team dirancang sebagai sistem pengujian keamanan otomatis dan berkelanjutan. Solusi ini mensimulasikan berbagai skenario serangan, termasuk ribuan pola ancaman yang terus diperbarui setiap bulan.
+
+Dengan pendekatan ini, perusahaan dapat mengidentifikasi potensi kerentanan sebelum sistem AI digunakan secara luas oleh pengguna akhir.
+
+Hasil temuan dari AI Red Team nantinya akan diintegrasikan ke dalam kebijakan AI Guardrails. Dengan mekanisme tersebut, sistem keamanan dapat terus diperbarui dan disesuaikan dengan ancaman terbaru, menciptakan siklus perlindungan yang berkelanjutan.
+
+F5 menyebut, kedua solusi ini telah diadopsi oleh sejumlah perusahaan global, termasuk perusahaan di sektor layanan keuangan dan kesehatan.",https://tekno.kompas.com/read/2026/02/12/12070027/f5-rilis-guardrails-dan-red-team-tameng-untuk-amankan-sistem-ai-enterprise
+Kompas,"Bukan HP, Gadget AI Pertama Bikinan OpenAI di Luar Dugaan",Marsha Bremanda,2026-02-12T23:45:40+00:00,"KOMPAS.com - Beberapa waktu belakangan, perusahaan kecerdasan buatan (AI) OpenAI, dikabarkan tengah menyiapkan perangkat keras (hardware) pertamanya.
+
+Awalnya, perusahaan pengembang chatbot AI ChatGPT itu disebut menggarap perangkat AI dengan bentuk yang tidak biasa, yaitu liontin atau pena pintar.
+
+Perangkat itu, digambarkan oleh sang CEO, Sam Altman, akan menjadi alternatif perangkat baru yang bisa memberikan rasa ""tenang dan nyaman"" dibandingan smartphone.
+
+Namun, laporan terbaru menyebut rencana tersebut berubah. Perangkat perdana OpenAI kini dirumorkan bukan berupa ponsel atau liontin dan pena, melainkan earbud berbasis AI.
+
+Rumor ini tentu di luar dugaan karena cukup berbeda dengan bocoran sebelumnya.
+
+Informasi mengenai perubahan rencana tersebut pertama kali dibagikan oleh pembocor (tipster) teknologi populer bernama Smart Pikachu.
+
+Melalui unggahannya di platform media sosial di China, Weibo, ia menyebut bahwa perangkat AI pertama buatan OpenAI akan hadir dalam bentuk earbud. Perangkat tersebut konon akan memiliki bentuk yang sama seperti Apple Airpods.
+
+Menurut bocoran tersebut, earbud berbasis AI ini kemungkinan akan diberi nama ""Dime"". Nama itu disebut muncul dalam dokumen pengajuan perangkat keras OpenAI di Badan Kekayaan Intelektual Nasional China (CNIPA).
+
+Tangkapan layar unggahan tipster Smart Pikachu di Weibo yang menyebut bahwa perangkat perdana OpenAI akan hadir dengan nama Dime.
+
+Tipster Smart Pikachu juga mengungkap bahwa untuk sementara waktu, OpenAI diprediksi akan mengesampingkan rencana memproduksi perangkat dengan kemampuan komputasi tinggi.
+
+Bukan tanpa alasan, keputusan tersebut diduga berkaitan dengan tingginya biaya produksi perangkat keras. Bocoran menyebut, saat ini fokus utama perusahaan adalah lebih dulu merilis headphone/earbud dengan kemampuan sederhana.
+
+Hal ini juga berkaitan dengan kelangkaan pasokan high-bandwith memory (HBM) yang mengakibatkan biaya material (Bill of Material/BOM) meningkat signifikan.
+
+Sebagaimana dihimpun KompasTekno dari GSMArena, perangkat earbud berbasis AI yang disebut-sebut sebagai produk hardware pertama OpenAI, dijadwalkan meluncur pada akhir tahun 2026.
+
+Menurut rumor yang beredar, awalnya, OpenAI akan lebih dulu merilis versi yang memiliki kemampuan lebih sederhana dibandingkan rencana perangkat revolusioner yang sebelumnya sempat dirumorkan.
+
+Sementara itu, versi perangkat yang lebih canggih dengan kemampuan komputasi lebih tinggi, diperkirakan akan menyusul dirilis setelah kondisi biaya komponen, termasuk memori berkecepatan tinggi, kembali membaik.",https://tekno.kompas.com/read/2026/02/12/09050027/bukan-hp-gadget-ai-pertama-bikinan-openai-di-luar-dugaan
+Kompas,Microsoft Pensiunkan Aplikasi Scan Favorit Pengguna Android,Marsha Bremanda,2026-02-12T05:42:00+00:00,"KOMPAS.com – Microsoft secara resmi menghentikan layanan aplikasi pemindai dokumen andalannya, Microsoft Lens di platform Android dan iOS.
+
+Mulai 9 Januari 2026, aplikasi tersebut ditarik dari toko aplikasi platform masing-masing, sehingga pengguna baru tidak lagi bisa mengunduhnya.
+
+Berdasarkan pantauan KompasTekno pada Rabu (11/2/2026), Microsoft Lens sudah menghilang dari Google Play Store. Meski demikian, aplikasi tersebut masih terlihat tersedia di Apple App Store.
+
+Langkah ini terbilang mengejutkan, sebab Microsoft Lens sudah banyak dikenal pengguna Android. Aplikasi ini sudah diunduh lebih dari 50 juta kali di Play Store.
+
+Bagaimanapun juga, ini adalah bagian dari strategi Microsoft yang mengarahkan pengguna memanfaatkan fitur pemindaian dokumen yang sudah terintegrasi langsung di layanan penyimpanan awan OneDrive.
+
+Tenggat akhir bisa dipakai
+
+Walaupun sudah dihapus dari toko aplikasi, pengguna lama yang sebelumnya telah mengunduh Microsoft Lens masih dapat memakainya untuk sementara waktu.
+
+Microsoft menetapkan 9 Maret 2026 sebagai tenggat akhir penggunaan. Setelah tanggal tersebut, fungsi pemindaian pada aplikasi tidak lagi dapat dijalankan.
+
+Artinya, pengguna yang masih memasang Microsoft Lens di perangkat hanya bisa menggunakan fitur pindai hingga batas waktu tersebut. Sesudahnya, kemampuan membuat pindaian baru akan dinonaktifkan sepenuhnya.
+
+Microsoft. Antarmuka Microsoft Office Lens.
+
+Dalam keterangan resmi di situsnya, Microsoft menyatakan, “Anda masih dapat memindai dokumen hingga 9 Maret 2026. Setelah itu, pembuatan pindaian baru tidak lagi tersedia, namun hasil pindaian sebelumnya tetap dapat diakses selama aplikasi masih terpasang di perangkat.”
+
+Perusahaan juga menjelaskan bahwa file hasil pemindaian yang tersimpan di folder My Scans tetap bisa dibuka selama aplikasi belum dihapus dari perangkat.
+
+Namun demikian, untuk mengakses data tersebut, pengguna diwajibkan masuk menggunakan akun Microsoft. Selain itu, aplikasi tersebut tidak lagi memperoleh dukungan atau pembaruan resmi dari perusahaan.
+
+Keputusan untuk menghentikan Microsoft Lens cukup mengejutkan sejumlah pengguna, mengingat aplikasi ini selama bertahun-tahun dikenal luas dan memiliki basis pengguna besar.
+
+Di Google Play Store, Microsoft Lens mengantongi rating 4,9 dari 5 berdasarkan sekitar 971.000 ulasan, dengan total unduhan melampaui 50 juta kali.
+
+Dalam beberapa waktu terakhir, sebagian pengguna mengeluhkan perubahan kebijakan pada aplikasi, seperti keharusan login serta penyimpanan hasil pindaian yang terhubung ke akun Microsoft.
+
+Akibatnya, tidak sedikit pengguna yang mulai mencari dan merekomendasikan aplikasi pemindai dokumen alternatif dari pihak ketiga.
+
+Sebagai catatan, aplikasi ini pertama kali diperkenalkan pada 2014 dengan nama Office Lens untuk platform Windows Phone. Setahun kemudian, Microsoft merilisnya untuk Android dan iOS, sebelum akhirnya mengganti namanya menjadi Microsoft Lens.",https://tekno.kompas.com/read/2026/02/12/12420047/microsoft-pensiunkan-aplikasi-scan-favorit-pengguna-android
+CNBC,Startup China Tak Terkenal Tiba-tiba Sudah Kalahkan Google,Intan Rakhmayanti Dewi,-,"Jakarta, CNBC Indonesia - Perusahaan kecerdasan buatan asal China, Zhipu AI, merilis model terbaru bernama GLM-5, di tengah persaingan ketat perusahaan teknologi domestik menjelang Tahun Baru Imlek.
+
+Model open-source tersebut diklaim memiliki kemampuan pemrograman yang lebih canggih serta sanggup menjalankan tugas agen AI dalam waktu lama. Dalam uji tolok ukur, performanya disebut mendekati model Claude Opus 4.5 milik Anthropic dan bahkan melampaui Gemini 3 Pro milik Google pada beberapa pengujian.
+
+Zhipu menyebut GLM-5 dikembangkan menggunakan chip buatan dalam negeri, termasuk chip Ascend milik Huawei serta produk dari Moore Threads, Cambricon, dan Kunlunxin.
+
+Dilansir dari Reuters, langkah ini sejalan dengan upaya Beijing mendorong swasembada semikonduktor, terutama setelah Amerika Serikat memperketat pembatasan ekspor chip kelas atas ke China.
+
+Peluncuran GLM-5 terjadi di tengah derasnya rilis model AI baru dari perusahaan teknologi China. Pesaing domestik MiniMax juga meluncurkan model open-source M2.5.
+
+Sementara itu, ByteDance merilis model pembuat video Seedance 2.0 yang viral di media sosial, beberapa hari setelah Kuaishou memperkenalkan model Kling 3.0.
+
+Zhipu dan MiniMax sendiri dikenal sebagai bagian dari kelompok ""macan AI"" China, yaitu startup AI yang digadang-gadang menjadi penantang serius Amerika Serikat dalam pengembangan teknologi AI mutakhir.
+
+Keduanya bahkan baru saja melantai di Bursa Efek Hong Kong, dengan saham yang langsung melonjak berkat optimisme investor terhadap ledakan AI di China.
+
+GLM-5 merupakan kelanjutan dari pembaruan model sebelumnya, yakni versi 4.7 pada bulan lalu dan versi 4.6 pada September. Model terbaru ini juga dioptimalkan untuk bekerja dengan agen AI seperti OpenClaw, an dirancang untuk menjalankan tugas multi-langkah secara mandiri.
+
+Meski saat ini sebagian besar pendapatan Zhipu masih berasal dari pasar domestik, perusahaan tersebut memiliki ambisi ekspansi global.
+
+CEO Zhang Peng sebelumnya menyebut pendapatan luar negeri mulai menunjukkan perkembangan, meski Zhipu belum secara langsung bersaing dengan model AS di pasar langganan konsumen.",https://www.cnbcindonesia.com/tech/20260212145611-37-710649/startup-china-tak-terkenal-tiba-tiba-sudah-kalahkan-google
+CNBC,Google dan Apple Akhirnya Menyerah Dipaksa Berubah Total,Novina Putri Bestari,-,"Jakarta, CNBC Indonesia - Google dan Apple memastikan toko aplikasi masing-masing akan dibuat lebih adil dan transparan. Hal ini diungkapkan oleh Regulaor antimonopoli Inggris, CMA.
+
+Menurut CMA, kedua perusahaan itu telah berkomitmen memastikan pemringkatan dan ilasan toko beropasi dengan adil. Termasuk memastikan melindungi data pengembang yang dikumpulkan, dikutip dari Reuters, Kamis (12/2/2026).
+
+Lembaga itu mengatakan kedua raksasa teknologi memiliki status pasar strategis dalam smartphone. Jadi baik Google dan Apple memiliki kekuataan untuk berubah agar dapat meningkatkan persaingan.
+
+Komitmen kedua perusahaan sebagai pendekatan yang fleksibilitas di tengah persaingan pasar digital negara tersebut. Begitu juga memberikan hasil yang lebih cepat baik bagi konsumen dan bisnis.
+
+""Ini jadi langkah pertama yang penting sementara kami beripaya melakukan sejumlah langkah tambahan meningkatkan layanan toko aplikasi Apple dan Google di Inggris,"" ujarnnya.
+
+Namun, Reuters mencatat tidak mengakomodir soal beban komisi yang telah jadi masalah besar bagi pengembang. Harga ini dibebankan pada pembelian, langganan dan pembelian dalam aplikasi di masing-masing toko aplikasi.
+
+Pada Juli lalu, CMA pernah mengatakan komisi sebesar 30% yang dibebankan saat ini menjadi kekhawatiran utama. Lembaga itu juga memastikan komitmennya pada hari Selasa lalu terkait hal ini, dengan menyebutnya sebagai prioritas.
+
+Namun, CMA juga mengatakan perubahan juga diperlukan untuk adanya langkah-langkah dari yuridiksi lalu. Soal komisi kembali dikomunikasikan terus menerus antara Inggris dengan Apple dan Google.
+
+Kedua perusahaan telah buka suara soal komitmen tersebut. Apple menghargai dialog positif, serta menyebut komitmen itu dapat menguntungkan pengguna dan pengembang.
+
+""Komitmen yang diumumkan hari ini membuat Apple terus memajukan inovasi privasi dan keamanan yang penting untuk pengguna dan peluang besar untuk pengembang,"" jelas pembuat iPhone.
+
+Sementara Google memastikan telah melakukan praktik adil, obyektif dan transparan. Raksasa mesin pencarian itu juga menyambut baik dalam penyelesaian masalah ini.
+
+""Kami berkomitmen menyediakan platform yang dapat membuat pengembang berkembang dengan percaya diri,"" kata juru bicara perusahaan.",https://www.cnbcindonesia.com/tech/20260212143715-37-710639/google-dan-apple-akhirnya-menyerah-dipaksa-berubah-total
+CNBC,AI PC Jadi Kunci Ketahanan Perusahaan Cegah Serangan Siber,Teti Purwanti,-,"Jakarta, CNBC Indonesia - Di level enterprise, ancaman siber tidak lagi sekadar persoalan teknis yang bisa diserahkan sepenuhnya kepada divisi IT. Ancaman telah berevolusi menjadi risiko strategis yang berdampak langsung pada keberlangsungan bisnis, reputasi perusahaan, hingga kepatuhan regulasi.
+
+Ironisnya, salah satu celah terbesar justru berasal dari hal yang terlihat sepele, yakni sistem dan perangkat yang tidak lagi mutakhir.
+
+Laporan ASUS 2025 Future of SMB Report memang berfokus pada bisnis skala menengah, namun temuan utamanya sangat relevan hingga ke perusahaan berskala enterprise. Ternyata, hampir 50% organisasi mengakui bahwa pembaruan dan pemeliharaan sistem merupakan tantangan besar.
+
+Dalam konteks enterprise, tantangan ini menjadi berlipat ganda karena kompleksitas infrastruktur, jumlah endpoint yang masif, serta ketergantungan pada sistem legacy yang masih menjalankan proses bisnis kritikal.
+
+Ancaman tersebut semakin nyata dengan berakhirnya masa dukungan Windows 10 pada 14 Oktober 2025 lalu dan layanan Extended Security Updates (ESU) Windows 10 yang hanya berlangsung hingga 13 Oktober 2026.
+
+Yang jadi permasalahan, banyak perangkat lama tidak lagi memenuhi syarat untuk upgrade, menciptakan potensi blind spot keamanan di lingkungan kerja enterprise yang seharusnya paling terkontrol.
+
+Menurut Commercial Country Product Manager, Enterprise Desktop & All-in-One ASUS Indonesia, Irene Ng, risiko terbesar bukan pada serangan itu sendiri, melainkan pada asumsi bahwa sistem lama masih cukup aman.
+
+""Di skala enterprise, satu endpoint yang tertinggal update dapat menjadi pintu masuk bagi ancaman yang berdampak ke seluruh organisasi, ujarnya dalam keterangan resmi, Kamis (12/2/2026).
+
+Paradoks Kesadaran di Level Enterprise
+
+Menariknya, kesadaran terhadap pentingnya IT tidak pernah setinggi sekarang. Dalam survey, sebanyak 90% pemimpin bisnis menyatakan bahwa IT jauh lebih krusial dibandingkan satu dekade lalu.
+
+Sayangnya, kesadaran tersebut tidak selalu diiringi dengan kecepatan eksekusi. Hanya 42% organisasi yang benar-benar proaktif dalam menjaga sistem tetap mutakhir.
+
+Di lingkungan enterprise, keterlambatan sering kali bukan karena kelalaian, melainkan karena proses internal yang kompleks. Validasi berlapis, kekhawatiran terhadap kompatibilitas aplikasi, hingga potensi gangguan operasional membuat update sistem kerap tertunda. Sayangnya, pendekatan ini justru memperbesar eksposur terhadap ancaman siber modern.
+
+Enterprise sering kali terjebak pada dilema antara stabilitas dan keamanan. Padahal, menurut Irene, dalam lanskap ancaman saat ini, sistem yang tidak diperbarui justru jauh lebih tidak stabil secara jangka panjang. Pepatah If it ain't broke, don't fix it tidak berlaku di level enterprise, terutama di era siber seperti saat ini.
+
+Dari Masalah Operasional Menjadi Risiko Bisnis
+
+Ketika sistem tidak diperbarui secara konsisten, dampaknya tidak berhenti pada sisi teknis. Risiko ini akan merembet ke area kepatuhan, audit, dan tata kelola perusahaan. Banyak regulasi industri kini mensyaratkan standar keamanan tertentu, dan penggunaan sistem yang sudah tidak didukung dapat menjadi temuan serius dalam audit.
+
+Selain itu, serangan siber di level enterprise jarang berdampak lokal. Sekali terjadi, gangguan bisa menyebar lintas divisi, menghentikan operasional, merusak kepercayaan mitra, hingga menimbulkan kerugian finansial yang signifikan.
+
+Data menunjukkan bahwa organisasi tanpa mekanisme IT yang aktif dan terotomatisasi lebih rentan tertinggal dalam pembaruan sistem. Dalam skala enterprise, ini berarti risiko yang terdistribusi di ratusan hingga ribuan perangkat.
+
+Peran AI PC dalam Strategi Ketahanan Siber Enterprise
+
+Di sinilah AI-powered PC menjadi elemen penting dalam strategi keamanan enterprise modern. Berbeda dari pendekatan tradisional yang bergantung pada intervensi manual, AI PC menghadirkan otomatisasi cerdas dalam pembaruan sistem, diagnostik perangkat, serta perlindungan berbasis hardware.
+
+Melalui lini Enterprise Desktop dan All-in-One ASUS ExpertCenter Series, ASUS menghadirkan perangkat dengan ASUS ExpertGuardian yang dirancang untuk lingkungan bisnis skala besar. Solusi ini mengintegrasikan fitur keamanan tingkat hardware, enkripsi, serta mekanisme update otomatis yang bekerja konsisten di seluruh endpoint.
+
+AI memungkinkan enterprise mengelola skala dengan lebih efisien. Dengan AI PC, pembaruan dan perlindungan tidak lagi bergantung pada tindakan manual di setiap perangkat, tetapi dijalankan secara sistematis dan terstandarisasi.
+
+Menuju Enterprise yang Resilien, Bukan Sekadar Aman
+
+Ketahanan siber di level enterprise bukan hanya soal mencegah serangan, tetapi memastikan bisnis tetap berjalan di tengah gangguan. Dalam konteks ini, modernisasi perangkat bukan lagi opsi, melainkan kebutuhan strategis.
+
+AI PC membantu enterprise bertransformasi dari pendekatan reaktif menjadi resiliensi proaktif. Sistem yang selalu diperbarui, perangkat yang siap mendukung standar keamanan terbaru, serta AI yang bekerja terus-menerus menciptakan fondasi IT yang lebih adaptif dan tahan terhadap ancaman masa depan.
+
+Menjelang berakhirnya dukungan Windows 10, pesan bagi perusahaan enterprise semakin tegas: menunda modernisasi berarti menumpuk risiko sistemik. Investasi pada AI PC bukan semata tentang performa atau efisiensi, tetapi tentang menjaga integritas operasional, reputasi, dan keberlanjutan bisnis.
+
+Di era digital, keamanan tidak bisa berdiri di atas teknologi yang tertinggal,tutup Irene. Enterprise yang ingin tetap kompetitif harus memastikan seluruh infrastrukturnya siap menghadapi ancaman hari ini dan esok, dan itu dimulai dari perangkat yang cerdas, aman, dan selalu relevan. Dalam lanskap bisnis modern, ketahanan siber bukan lagi diferensiasi. Bagi enterprise, ia telah menjadi fondasi utama strategi bisnis jangka panjang.",https://www.cnbcindonesia.com/tech/20260212162824-37-710703/ai-pc-jadi-kunci-ketahanan-perusahaan-cegah-serangan-siber
+CNBC,"Lepas dari China Jadi Milik Amerika, TikTok Sudah Berubah Drastis",Novina Putri Bestari,-,"Jakarta, CNBC Indonesia - TikTok versi Amerika Serikat (AS) mengalami perubahan besar. Pihak aplikasi mengumumkan peluncuran fitur khusus untuk wilayah tersebut.
+
+Fitur bernama Local Feed menyediakan konten perjalanan, berita, acara, belanja dan tempat makan dekat lokasi pengguna saat ini.
+
+Menurut TikTok, fitur baru akan membantu pengguna terhubung dengan komunitas lokal. Postingan pengguna akan ditampilkan sesuai dengan lokasi orang, topik konten, dan waktu postingan.
+
+Local Feed seperti menjadi tempat informasi lokal yang terkini berisi saran seperti restoran untuk dicoba, acara lokal, hingga saran belanja.
+
+Pengguna TikTok tetap punya kendali untuk membagikan data lokasi mereka saat menggunakan fitur Local Feed. Aplikasi akan meminta izin menggunakan data tersebut, khusus pengguna iOS dihadirkan tiga opsi terkait izin yakni hanya sekali, saat menggunakan aplikasi atau tidak sama sekali.
+
+Fitur ini juga jadi upaya TikTok menarik bisnis kecil ke aplikasi sebagai produsen hingga pengiklan. TikTok juga mengklaim Local Feed ini akan menghasilkan trafik serta penjualan secara nyata untuk toko fisik yang ada di AS, dikutip dari Tech Crunch, Kamis (11/2/2026).
+
+Laporan Oxford Economics tahun 2025 yang dicatat TikTok mengungkapkan 7,5 juta bisnis telah menggunakannya secara global. Ini mendukung lebih dari 28 juta pekerja.
+
+Sementara data dari Small Business & Enterpreneurship Council mengungkapkan dampak TikTok bagi pembisnis. Misalnya 84% pengguna bisnis kecil TikTok menyatakan platform membantu mengembangkan bisnis, 75% merasa dibantu untuk menjangkau di luar wilayah lokal mereka, serta 74% penjual mengatakan TikTok membantu mereka tetap terhubung dengan komunitas lokal.
+
+Sebelumnya, fitur ini juga telah diluncurkan di sejumlah wilayah Eropa pada Desember lalu. Beberapa di antaranya adalah Inggris, Perancis, Italia dan Jerman yang bisa mengakses Local Feed.",https://www.cnbcindonesia.com/tech/20260212123226-37-710555/lepas-dari-china-jadi-milik-amerika-tiktok-sudah-berubah-drastis
+CNBC,"Trafik Data Saat Lebaran 2026 Melonjak, Begini Strategi XLSMART",Intan Rakhmayanti Dewi,-,"Jakarta, CNBC Indonesia - Direktur & Chief Technology Officer XLSMART, Shurish Subbramaniam, mengungkapkan strategi perusahaan dalam menjaga kualitas layanan 5G di tengah lonjakan trafik data saat Lebaran 2026. Salah satu langkah utama yang dilakukan adalah memisahkan spektrum 5G dari jaringan 4G.
+
+Shurish menjelaskan, XLSMART menggunakan spektrum Time Division Duplex (TDD) 2,3 GHz yang didedikasikan khusus untuk 5G di kota-kota yang telah dilayani. Dengan skema ini, spektrum tersebut tidak digunakan bersama dengan jaringan 4G.
+
+""Di XLSMART, 5G tidak sharing dengan 4G. Yang TDD 2,3 di kota-kota yang kami nyalakan 5G, didedikasikan khusus ke 5G, tidak 4G,"" ujarnya saat Media Update Kesiapan Jaringan Jelang Ramadan dan Lebaran 2026, di Kantor XLSMART, Rabu (11/2/2026).
+
+Ia menambahkan, kondisi ini berbeda dengan sebagian operator lain yang harus membagi spektrum antara 4G dan 5G karena tidak memiliki spektrum TDD khusus. Menurutnya, pemisahan spektrum tersebut akan memberikan pengalaman pelanggan yang lebih baik.
+
+""Kalau operator lain, dia tidak ada TDD spektrum, jadi harus bagi-bagi spektrumnya. Kita 2,3 didedikasikan ke 5G. Yang lain untuk 4G, jadi tidak ada campur. Ini akan memberi pengalaman pelanggan yang lebih baik,"" jelasnya.
+
+Terkait pertumbuhan pelanggan, Shurish mengatakan adopsi 5G masih berada pada tahap awal. XLSMART baru meluncurkan layanan 5G di 13 kota pada Desember, lalu bertambah menjadi 20 kota pada Januari.
+
+Ke depan, perusahaan menargetkan ekspansi jaringan hingga mencakup 88 kota. Seiring perluasan cakupan tersebut, trafik dan jumlah pelanggan diproyeksikan terus meningkat.
+
+Namun, ia menilai penetrasi perangkat yang mendukung 5G masih menjadi tantangan. Saat ini, jumlah pelanggan yang memiliki ponsel 5G masih di bawah 20% dari total basis pengguna.",https://www.cnbcindonesia.com/tech/20260212104910-37-710515/trafik-data-saat-lebaran-2026-melonjak-begini-strategi-xlsmart
