@@ -1,0 +1,56 @@
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 25px; border: 1px solid #e0e0e0; border-radius: 12px; background: #ffffff; max-width: 600px; margin: auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="text-align: center; color: #1a73e8;">Logika Alur VeritasAI</h3>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    
+    <div style="width: 100%; padding: 12px; border: 2px solid #1a73e8; border-radius: 8px; background: #e8f0fe; text-align: center;">
+      <strong style="color: #1a73e8;">1. Input Stage</strong><br>
+      <small>User memasukkan Link atau Teks berita.</small>
+    </div>
+    <div style="font-size: 20px;">↓</div>
+
+    <div style="width: 100%; padding: 12px; border: 2px solid #f9ab00; border-radius: 8px; background: #fef7e0; text-align: center;">
+      <strong style="color: #b06000;">2. RAG Retrieval</strong><br>
+      <small>Backend mencari referensi fakta di Google/News API.</small>
+    </div>
+    <div style="font-size: 20px;">↓</div>
+
+    <div style="width: 100%; padding: 12px; border: 2px solid #188038; border-radius: 8px; background: #e6f4ea; text-align: center;">
+      <strong style="color: #188038;">3. AI Reasoning (Gemini)</strong><br>
+      <small>Membandingkan input dengan fakta & menentukan skor 1-100.</small>
+    </div>
+    <div style="font-size: 20px;">↓</div>
+
+    <div style="width: 100%; padding: 12px; border: 2px solid #d93025; border-radius: 8px; background: #fce8e6; text-align: center;">
+      <strong style="color: #d93025;">4. Output & History</strong><br>
+      <small>Tampilkan hasil di UI & simpan ke Supabase.</small>
+    </div>
+
+  </div>
+</div>
+
+<div style="font-family: sans-serif; padding: 20px; background: #f4f7f9; border-radius: 10px;">
+  <h3 style="color: #2c3e50; border-left: 5px solid #1a73e8; padding-left: 10px;">Timeline Pengerjaan</h3>
+  
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 15px; padding: 10px; background: white; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+      <b style="color: #1a73e8;">Fase 1: Research & Prompt Engineering (Minggu 1)</b><br>
+      Riset pola hoaks terbaru dan penyusunan instruksi (System Prompt) untuk AI agar output konsisten dalam format JSON.
+    </li>
+    <li style="margin-bottom: 15px; padding: 10px; background: white; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+      <b style="color: #1a73e8;">Fase 2: Backend & Search Integration (Minggu 2)</b><br>
+      Membangun server FastAPI dan mengintegrasikan Serper API untuk mengambil data berita real-time sebagai referensi AI.
+    </li>
+    <li style="margin-bottom: 15px; padding: 10px; background: white; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+      <b style="color: #1a73e8;">Fase 3: Frontend & Visualization (Minggu 3)</b><br>
+      Develop UI menggunakan Next.js, pembuatan gauge chart untuk visualisasi skor, dan halaman landing page produk.
+    </li>
+    <li style="margin-bottom: 15px; padding: 10px; background: white; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+      <b style="color: #1a73e8;">Fase 4: Database & Feedback System (Minggu 4)</b><br>
+      Implementasi Supabase untuk menyimpan riwayat pencarian pengguna dan fitur feedback "Koreksi Fakta".
+    </li>
+    <li style="margin-bottom: 15px; padding: 10px; background: white; border-radius: 5px; box-shadow: 2px 2px 5px rgba(0,0,0,0.05);">
+      <b style="color: #1a73e8;">Fase 5: Testing & Paper Production (Minggu 5)</b><br>
+      Uji coba sistem dengan berbagai jenis berita, dokumentasi teknis, dan finalisasi materi presentasi lomba.
+    </li>
+  </ul>
+</div>
